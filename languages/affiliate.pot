@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2023-07-13 15:03+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: lib/core/class-affiliate.php:48
+#, php-format
+msgid   "%sAffiliate%s requires the Multibyte String %smbstring%s PHP "
+        "extension."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:128
+#: lib/core/class-affiliate-admin.php:197
+msgid   "Access denied."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:94
+msgid   "Add New Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:77 lib/core/class-affiliate-admin.php:78
+#: lib/core/class-affiliate-admin.php:136
+#: lib/core/class-affiliate-admin.php:267 lib/core/class-affiliate-help.php:53
+msgid   "Affiliate"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:107
+msgid   "Affiliate Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:474
+msgid   "Custom field deleted."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:473
+msgid   "Custom field updated."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:345
+msgid   "Deactivate this option to allow replacements of partial matches "
+        "within words or when using a language that does not separate words."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:95
+msgid   "Edit"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:96
+msgid   "Edit Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:307
+msgid   "Enable keyword replacement in content?"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:222
+msgid   "Enable keyword substitution for these post types."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:304
+msgid   "Enabled"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:208
+msgid   "Enter the keyword here"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:309
+msgid   "If enabled and a URL is given, the keyword will be replaced by a "
+        "link pointing to the URL."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:327
+msgid   "If enabled, replacement will be done only if the keyword is matched "
+        "exactly in case. By default, case-insensitive comparison is used, so "
+        "that a keyword like \"Example\" would be matched by \"Example\", "
+        "\"example\", \"exAMple\" etc. If case-sensitive replacement is "
+        "enabled, only occurrences of \"Example\" would be replaced."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:361
+#, php-format
+msgid   "Indicate %snofollow%s?"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:363
+msgid   "Instructs search engines that the hyperlink should not influence the "
+        "ranking of the link's target in the search engine's index."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:91
+msgid   "Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:481
+msgid   "Keyword draft updated."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:477
+msgid   "Keyword published."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:476
+#, php-format
+msgid   "Keyword restored to revision from %s"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:478
+msgid   "Keyword saved."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:480
+#, php-format
+msgid   "Keyword scheduled for: <strong>%1$s</strong>."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:479
+msgid   "Keyword submitted."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:472
+#: lib/core/class-affiliate-keyword.php:475
+msgid   "Keyword updated."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:140
+#: lib/core/class-affiliate-keyword.php:90
+#: lib/core/class-affiliate-keyword.php:92
+#: lib/core/class-affiliate-keyword.php:104
+msgid   "Keywords"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:170
+#, php-format
+msgid   "Keywords are substituted only on post types enabled in the %s."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:243
+msgid   "Keywords are substituted with affiliate links on enabled post types "
+        "only."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:163
+msgid   "Keywords can be automatically replaced with links."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:188
+msgid   "Link"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:480
+msgid   "M j, Y @ G:i"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:322
+msgid   "Match Case"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:93
+#: lib/core/class-affiliate-keyword.php:97
+msgid   "New Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:98
+msgid   "No Keywords found"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:99
+msgid   "No Keywords found in trash"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:179
+msgid   "Options"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:100
+msgid   "Parent Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate.php:55
+msgid   "Please ask your website administrator to enable this extension."
+msgstr  ""
+
+#: lib/core/class-affiliate-help.php:61
+#, php-format
+msgid   "Please read the %sDocumentation%s if you need help on its usage."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:221
+msgid   "Post Types"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:247
+msgid   "Save"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:101
+msgid   "Search Keywords"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:113
+#: lib/core/class-affiliate-admin.php:114
+#: lib/core/class-affiliate-admin.php:174
+#: lib/core/class-affiliate-admin.php:217
+#: lib/core/class-affiliate-admin.php:268
+msgid   "Settings"
+msgstr  ""
+
+#: lib/core/class-affiliate-help.php:56
+msgid   "Thanks for using the Affiliate toolbox for Affiliate Marketers."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:278
+msgid   "The URL provided does not appear to be valid, although in some cases "
+        "the URL may still be valid, it is recommended to check that the URL "
+        "you have indicated is correct."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:255
+msgid   "The URL that should be used in the link that replaces the keyword "
+        "found in content."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:221
+msgid   "The keyword can be any combination of words and whitespace."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:158
+#, php-format
+msgid   "There is one active keyword."
+msgid_plural    "There are %d active keywords."
+msgstr[0]       ""
+msgstr[1]       ""
+
+#: lib/core/class-affiliate-keyword.php:250
+msgid   "URL"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:325
+msgid   "Use case-sensitive replacement?"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:343
+msgid   "Use word boundaries to replace complete matches only?"
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:102
+#: lib/core/class-affiliate-keyword.php:103
+msgid   "View Keyword"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:180
+#, php-format
+msgid   "Visit the %sDocumentation%s pages for detailed information."
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:165
+msgid   "Wherever those keywords appear in the page content, the system can "
+        "replace them."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:340
+msgid   "Word Boundaries"
+msgstr  ""
+
+#: lib/core/class-affiliate-admin.php:167
+msgid   "You must enable keyword substitution for the desired post types."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:227
+#, php-format
+msgid   "Your setup does not support multibyte strings. If you require "
+        "replacements for a language that requires support for multibyte "
+        "strings, please ask your web server administrator to %sinstall "
+        "mbstring%s."
+msgstr  ""
+
+#: lib/core/class-affiliate-keyword.php:358
+msgid   "nofollow"
+msgstr  ""

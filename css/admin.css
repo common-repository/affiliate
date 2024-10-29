@@ -1,0 +1,10 @@
+div.affiliate-admin,
+div.affiliate-settings {
+	padding: 1em;
+}
+
+div.affiliate-admin div.keyword-summary {
+	padding: 1em;
+	background: #fff;
+	border: 1px solid #ccc;
+}

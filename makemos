@@ -1,0 +1,2 @@
+#!/bin/sh
+msgfmt -o languages/groups-woocommerce-de_DE.mo languages/groups-woocommerce-de_DE.po

@@ -1,0 +1,98 @@
+== Affiliate by itthinx - changelog.txt ==
+
+= 1.12.0 =
+* WordPress 6.2 compatible.
+* WordPress 6.3-beta4 compatible.
+* Requires at least WordPress 6.0.
+* Requires at least PHP 7.2.
+* Added output escaping in admin sections where that was missing.
+* Revised some styling on admin elements.
+* Updated the translation template.
+
+= 1.11.0 =
+* WordPress 6.0 compatible.
+* Requires at least WordPress 5.6.
+* Revised the summary admin section.
+* Revised admin message on missing mbstring PHP extension.
+* Replaced use of language domain constant with string literal.
+* Updated the translation template.
+* Updated non-secure URLs to point to secure URLs.
+
+= 1.10.0 =
+* WordPress 5.7 compatible.
+
+= 1.9.0 =
+* WordPress 5.4 compatible.
+* Minimum required WordPress version is now 5.0.
+* Fixed use of deprecated filter contextual_help.
+* Updated info and requirements.
+* Code formatting improvements.
+* Output escaping on help section.
+* Removed button appearance from help link.
+
+= 1.8.0 =
+* WordPress 5.2 compatible.
+* Added an option to check for word boundaries or not (enabled by default).
+* Added the plugin's changelog.txt.
+
+= 1.7.2 =
+* WordPress 5.1 compatibility tested.
+* Added minimum PHP version requirement.
+
+= 1.7.1 =
+* WordPress 5.1 compatibility tested.
+* Reduced tested up to tag from 5.2 to 5.1 to check if "hasn't been tested" notice will go away.
+
+= 1.7.0 =
+* WordPress 5.1 compatibility tested.
+* WordPress 5.2-alpha-44767 compatibility tested.
+* Updated the description and tags.
+
+= 1.6.0 =
+* WordPress 4.4 tested.
+* Added keyword count info.
+* Improved performance on keyword substitution.
+* Added the option to indicate nofollow for keywords.
+
+= 1.5.0 =
+* WordPress 4.3 tested.
+* Affiliate menu moved up closer to Posts and Pages.
+
+= 1.4.0 =
+* Added the settings section to enable keyword substitution by post type.
+* Fixed administrator role is checked before assigning capabilities of the keyword custom post type.
+* Added a Settings link to the plugin entry.
+* Improved section headings.
+* Updated the translation template.
+* Corrected the path used to load translations.
+* WordPress 4.2 compatibility checked
+
+= 1.3.0 =
+* Added help sections and documentation links.
+* WordPress 4.1.1 compatible.
+* Removed currently inactive Settings link in plugin links.
+* Added ABSPATH check to plugin main file.
+
+= 1.2.0 =
+* WordPress 4.0 compatible.
+
+= 1.1.3 =
+* Improved the Affiliate menu so that the Keywords menu item is shown active
+  when adding or editing a keyword.
+
+= 1.1.2 =
+* Fixed the edit_form_after_title filter to limit it to the affiliate_keyword post type.
+
+= 1.1.1 =
+* Checking if the required Multibyte String PHP extension is enabled.
+* Translation template added.
+
+= 1.1.0 =
+* Improved the keyword replacement algorithm, using a parser to make correct replacements.
+* Added excerpt filter.
+
+= 1.0.1 =
+* WordPress 3.9 compatibility checked
+
+= 1.0.0 =
+Initial release.
